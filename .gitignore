@@ -1,0 +1,9 @@
+*.log
+*.class
+*.ctxt
+*.jar
+*.war
+*.rar
+*.zip
+.idea/**/workspace.xml
+
